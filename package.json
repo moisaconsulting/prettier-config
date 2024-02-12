@@ -1,5 +1,5 @@
 {
-  "name": "@moisaconsulting/prettier-config",
+  "name": "moisaconsulting-prettier-config",
   "version": "1.0.0",
   "description": "Prettier config",
   "main": "index.json",
